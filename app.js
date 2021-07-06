@@ -1,5 +1,6 @@
+require('dotenv').config();
 require('apostrophe')({
-  shortName: 'a3-boilerplate',
+  shortName: 'beantown',
   modules: {
     // Apostrophe module configuration
     // *******************************
